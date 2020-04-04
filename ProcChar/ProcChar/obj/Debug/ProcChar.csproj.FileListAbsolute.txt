@@ -1,0 +1,7 @@
+C:\Users\Rafael\source\repos\ProcChar\ProcChar\bin\Debug\ProcChar.exe.config
+C:\Users\Rafael\source\repos\ProcChar\ProcChar\bin\Debug\ProcChar.exe
+C:\Users\Rafael\source\repos\ProcChar\ProcChar\bin\Debug\ProcChar.pdb
+C:\Users\Rafael\source\repos\ProcChar\ProcChar\obj\Debug\ProcChar.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\ProcChar\ProcChar\obj\Debug\ProcChar.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\ProcChar\ProcChar\obj\Debug\ProcChar.exe
+C:\Users\Rafael\source\repos\ProcChar\ProcChar\obj\Debug\ProcChar.pdb
