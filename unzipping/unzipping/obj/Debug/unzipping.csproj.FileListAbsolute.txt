@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\unzipping\unzipping\bin\Debug\unzipping.exe.config
+C:\Users\Rafael\source\repos\unzipping\unzipping\bin\Debug\unzipping.exe
+C:\Users\Rafael\source\repos\unzipping\unzipping\bin\Debug\unzipping.pdb
+C:\Users\Rafael\source\repos\unzipping\unzipping\obj\Debug\unzipping.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\unzipping\unzipping\obj\Debug\unzipping.exe
+C:\Users\Rafael\source\repos\unzipping\unzipping\obj\Debug\unzipping.pdb

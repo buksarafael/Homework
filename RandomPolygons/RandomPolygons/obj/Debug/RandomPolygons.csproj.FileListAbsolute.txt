@@ -1,0 +1,10 @@
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\obj\Debug\RandomPolygons.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\obj\Debug\RandomPolygons.Form1.resources
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\obj\Debug\RandomPolygons.Properties.Resources.resources
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\obj\Debug\RandomPolygons.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\obj\Debug\RandomPolygons.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\bin\Debug\RandomPolygons.exe.config
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\bin\Debug\RandomPolygons.exe
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\bin\Debug\RandomPolygons.pdb
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\obj\Debug\RandomPolygons.exe
+C:\Users\Rafael\source\repos\RandomPolygons\RandomPolygons\obj\Debug\RandomPolygons.pdb

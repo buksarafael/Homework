@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Contor\Contor\bin\Debug\Contor.exe.config
+C:\Users\Rafael\source\repos\Contor\Contor\bin\Debug\Contor.exe
+C:\Users\Rafael\source\repos\Contor\Contor\bin\Debug\Contor.pdb
+C:\Users\Rafael\source\repos\Contor\Contor\obj\Debug\Contor.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Contor\Contor\obj\Debug\Contor.exe
+C:\Users\Rafael\source\repos\Contor\Contor\obj\Debug\Contor.pdb

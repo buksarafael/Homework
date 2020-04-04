@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Sir Aleatoriu\Sir Aleatoriu\bin\Debug\Sir Aleatoriu.exe.config
+C:\Users\Rafael\source\repos\Sir Aleatoriu\Sir Aleatoriu\bin\Debug\Sir Aleatoriu.exe
+C:\Users\Rafael\source\repos\Sir Aleatoriu\Sir Aleatoriu\bin\Debug\Sir Aleatoriu.pdb
+C:\Users\Rafael\source\repos\Sir Aleatoriu\Sir Aleatoriu\obj\Debug\Sir Aleatoriu.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Sir Aleatoriu\Sir Aleatoriu\obj\Debug\Sir Aleatoriu.exe
+C:\Users\Rafael\source\repos\Sir Aleatoriu\Sir Aleatoriu\obj\Debug\Sir Aleatoriu.pdb

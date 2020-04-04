@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\ridicarematrice\ridicarematrice\bin\Debug\ridicarematrice.exe.config
+C:\Users\Rafael\source\repos\ridicarematrice\ridicarematrice\bin\Debug\ridicarematrice.exe
+C:\Users\Rafael\source\repos\ridicarematrice\ridicarematrice\bin\Debug\ridicarematrice.pdb
+C:\Users\Rafael\source\repos\ridicarematrice\ridicarematrice\obj\Debug\ridicarematrice.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\ridicarematrice\ridicarematrice\obj\Debug\ridicarematrice.exe
+C:\Users\Rafael\source\repos\ridicarematrice\ridicarematrice\obj\Debug\ridicarematrice.pdb

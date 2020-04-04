@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hurdur", "hurdur\hurdur.csproj", "{75F0F01D-91EF-433C-AE72-0F0CC27A9626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F0F01D-91EF-433C-AE72-0F0CC27A9626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F0F01D-91EF-433C-AE72-0F0CC27A9626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F0F01D-91EF-433C-AE72-0F0CC27A9626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F0F01D-91EF-433C-AE72-0F0CC27A9626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C708E0-AE64-48DE-82BE-1671328A0D68}
+	EndGlobalSection
+EndGlobal

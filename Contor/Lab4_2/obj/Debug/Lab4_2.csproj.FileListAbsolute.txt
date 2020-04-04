@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Contor\Lab4_2\bin\Debug\Lab4_2.exe.config
+C:\Users\Rafael\source\repos\Contor\Lab4_2\bin\Debug\Lab4_2.exe
+C:\Users\Rafael\source\repos\Contor\Lab4_2\bin\Debug\Lab4_2.pdb
+C:\Users\Rafael\source\repos\Contor\Lab4_2\obj\Debug\Lab4_2.exe
+C:\Users\Rafael\source\repos\Contor\Lab4_2\obj\Debug\Lab4_2.pdb
+C:\Users\Rafael\source\repos\Contor\Lab4_2\obj\Debug\Lab4_2.csprojAssemblyReference.cache

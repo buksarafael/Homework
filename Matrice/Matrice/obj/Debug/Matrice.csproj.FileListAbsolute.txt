@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Matrice\Matrice\bin\Debug\Matrice.exe.config
+C:\Users\Rafael\source\repos\Matrice\Matrice\bin\Debug\Matrice.exe
+C:\Users\Rafael\source\repos\Matrice\Matrice\bin\Debug\Matrice.pdb
+C:\Users\Rafael\source\repos\Matrice\Matrice\obj\Debug\Matrice.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Matrice\Matrice\obj\Debug\Matrice.exe
+C:\Users\Rafael\source\repos\Matrice\Matrice\obj\Debug\Matrice.pdb

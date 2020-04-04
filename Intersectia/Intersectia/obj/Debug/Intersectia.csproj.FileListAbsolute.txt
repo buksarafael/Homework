@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Intersectia\Intersectia\bin\Debug\Intersectia.exe.config
+C:\Users\Rafael\source\repos\Intersectia\Intersectia\bin\Debug\Intersectia.exe
+C:\Users\Rafael\source\repos\Intersectia\Intersectia\bin\Debug\Intersectia.pdb
+C:\Users\Rafael\source\repos\Intersectia\Intersectia\obj\Debug\Intersectia.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Intersectia\Intersectia\obj\Debug\Intersectia.exe
+C:\Users\Rafael\source\repos\Intersectia\Intersectia\obj\Debug\Intersectia.pdb

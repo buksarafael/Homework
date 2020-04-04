@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Deathrolling\Deathrolling\bin\Debug\Deathrolling.exe.config
+C:\Users\Rafael\source\repos\Deathrolling\Deathrolling\bin\Debug\Deathrolling.exe
+C:\Users\Rafael\source\repos\Deathrolling\Deathrolling\bin\Debug\Deathrolling.pdb
+C:\Users\Rafael\source\repos\Deathrolling\Deathrolling\obj\Debug\Deathrolling.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Deathrolling\Deathrolling\obj\Debug\Deathrolling.exe
+C:\Users\Rafael\source\repos\Deathrolling\Deathrolling\obj\Debug\Deathrolling.pdb

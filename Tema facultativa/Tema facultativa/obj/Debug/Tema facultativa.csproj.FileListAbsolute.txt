@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Tema facultativa\Tema facultativa\bin\Debug\Tema facultativa.exe.config
+C:\Users\Rafael\source\repos\Tema facultativa\Tema facultativa\bin\Debug\Tema facultativa.exe
+C:\Users\Rafael\source\repos\Tema facultativa\Tema facultativa\bin\Debug\Tema facultativa.pdb
+C:\Users\Rafael\source\repos\Tema facultativa\Tema facultativa\obj\Debug\Tema facultativa.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Tema facultativa\Tema facultativa\obj\Debug\Tema facultativa.exe
+C:\Users\Rafael\source\repos\Tema facultativa\Tema facultativa\obj\Debug\Tema facultativa.pdb

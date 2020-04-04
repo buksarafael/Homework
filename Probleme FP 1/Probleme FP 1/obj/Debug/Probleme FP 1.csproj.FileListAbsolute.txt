@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Probleme FP 1\Probleme FP 1\bin\Debug\Probleme FP 1.exe.config
+C:\Users\Rafael\source\repos\Probleme FP 1\Probleme FP 1\bin\Debug\Probleme FP 1.exe
+C:\Users\Rafael\source\repos\Probleme FP 1\Probleme FP 1\bin\Debug\Probleme FP 1.pdb
+C:\Users\Rafael\source\repos\Probleme FP 1\Probleme FP 1\obj\Debug\Probleme FP 1.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Probleme FP 1\Probleme FP 1\obj\Debug\Probleme FP 1.exe
+C:\Users\Rafael\source\repos\Probleme FP 1\Probleme FP 1\obj\Debug\Probleme FP 1.pdb

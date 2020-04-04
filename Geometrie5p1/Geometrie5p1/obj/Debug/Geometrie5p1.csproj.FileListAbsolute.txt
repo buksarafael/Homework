@@ -1,0 +1,9 @@
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\bin\Debug\Geometrie5p1.exe.config
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\bin\Debug\Geometrie5p1.exe
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\bin\Debug\Geometrie5p1.pdb
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\obj\Debug\Geometrie5p1.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\obj\Debug\Geometrie5p1.Properties.Resources.resources
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\obj\Debug\Geometrie5p1.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\obj\Debug\Geometrie5p1.exe
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\obj\Debug\Geometrie5p1.pdb
+C:\Users\Rafael\source\repos\Geometrie5p1\Geometrie5p1\obj\Debug\Geometrie5p1.Form1.resources

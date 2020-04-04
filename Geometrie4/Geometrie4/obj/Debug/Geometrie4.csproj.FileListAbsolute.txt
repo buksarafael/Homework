@@ -1,0 +1,6 @@
+C:\Users\Rafael\source\repos\Geometrie4\Geometrie4\bin\Debug\Geometrie4.exe.config
+C:\Users\Rafael\source\repos\Geometrie4\Geometrie4\bin\Debug\Geometrie4.exe
+C:\Users\Rafael\source\repos\Geometrie4\Geometrie4\bin\Debug\Geometrie4.pdb
+C:\Users\Rafael\source\repos\Geometrie4\Geometrie4\obj\Debug\Geometrie4.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Geometrie4\Geometrie4\obj\Debug\Geometrie4.exe
+C:\Users\Rafael\source\repos\Geometrie4\Geometrie4\obj\Debug\Geometrie4.pdb
